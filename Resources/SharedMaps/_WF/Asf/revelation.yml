@@ -2,10 +2,10 @@ meta:
   format: 7
   category: Grid
   engineVersion: 291.0.0
-  forkId: wolfgate-mapping
-  forkVersion: 20261106-021336-f99d2cb-tm508-6eaf4386
-  time: 11/07/2026 08:14:27
-  entityCount: 656
+  forkId: ""
+  forkVersion: ""
+  time: 11/07/2026 10:18:13
+  entityCount: 659
 maps: []
 grids:
 - 2
@@ -889,6 +889,21 @@ entities:
     - type: Transform
       parent: 2
       pos: 0.5,26.5
+  - uid: 641
+    components:
+    - type: Transform
+      parent: 2
+      pos: 5.5,22.5
+  - uid: 645
+    components:
+    - type: Transform
+      parent: 2
+      pos: -2.5,22.5
+  - uid: 646
+    components:
+    - type: Transform
+      parent: 2
+      pos: 6.5,15.5
 - proto: AuroraStoolChairWood
   entities:
   - uid: 505
