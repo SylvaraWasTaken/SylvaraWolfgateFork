@@ -277,7 +277,7 @@
       stationProto: StandardFrontierVessel
       components:
       - type: StationNameSetup
-        mapNameTemplate: 'ASF Revelation {1}'
+        mapNameTemplate: 'Revelation ASF{1}'
         nameGenerator:
           !type:NanotrasenNameGenerator
           prefixCreator: '14'
