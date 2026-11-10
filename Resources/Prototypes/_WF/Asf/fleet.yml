@@ -296,7 +296,7 @@
   price: 50000 # appraised at 39905
   category: Small # 189 tiles
   group: Custom
-  shuttlePath: /SharedMaps/_WF/Community/surveyor.yml
+  shuttlePath: /SharedMaps/_WF/Asf/surveyor.yml
   guidebookPage: null
   class:
   - Salvage
@@ -306,7 +306,7 @@
 - type: gameMap
   id: WFSurveyor
   mapName: 'ASF Surveyor'
-  mapPath: /SharedMaps/_WF/Community/surveyor.yml
+  mapPath: /SharedMaps/_WF/Asf/surveyor.yml
   minPlayers: 0
   stations:
     WFSurveyor:
