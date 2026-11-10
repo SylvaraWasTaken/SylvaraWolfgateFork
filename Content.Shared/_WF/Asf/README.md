@@ -48,7 +48,7 @@ spine, flared shoulders with the docks, a pinched waist and a wide engineering s
   | Bulwark (gunship) | 99 | 4: Hummingbird, Serpent | small | 75k |
   | Guardian (corvette) | 237 | 12: Apollo, 2 Hummingbird, 2 Tarnyx | small | 123k |
   | Revelation (research, drone hunter) | 313 | 6: 2 Hummingbird, 2 Flutter | small | 162k |
-  | Surveyor (mining) | 189 | 2: Flutter | small | 50k |
+  | Surveyor (mining) | 189 | 2: Flutter | small | 86k |
   | Lodestar (flagship frigate) | 479 | 22: 2 Apollo, 4 Hummingbird, 2 Serpent, 2 Flutter | MS-250 Aegis | 250k, voucher only |
 
   Peers at those sizes: QJ340/Bazalt (fighters), QJ270/Strayk/Reaver (gunships), Paladin/Kite/Shiv (corvettes),
