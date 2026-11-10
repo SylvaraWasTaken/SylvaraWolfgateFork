@@ -309,7 +309,7 @@
   mapPath: /SharedMaps/_WF/Asf/surveyor.yml
   minPlayers: 0
   stations:
-    WFSurveyor:
+    WFAsfSurveyor:
       stationProto: StandardFrontierVessel
       components:
       - type: StationNameSetup
