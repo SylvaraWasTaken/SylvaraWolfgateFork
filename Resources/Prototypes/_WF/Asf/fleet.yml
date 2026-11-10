@@ -297,7 +297,7 @@
   category: Small # 189 tiles
   group: Custom
   shuttlePath: /SharedMaps/_WF/Asf/surveyor.yml
-  guidebookPage: null
+  guidebookPage: WFShipyardAsfSurveyor
   class:
   - Salvage
   engine:
